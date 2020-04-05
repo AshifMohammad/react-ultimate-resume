@@ -201,7 +201,7 @@
     "Projects.dialog.content.title": "Project title",
     "Projects.front.action": "See {count} project{count, plural, one {} other {s}}",
     "Projects.front.noProject": "You do not have any project yet !",
-    "Projects.front.title": "My <emoji>♥️</emoji> project : ",
+    "Projects.front.title": "Professional Projects :  ",
     "Projects.noProject.buttonLabel": "Add a project",
     "Projects.noProject.title": "Describe here your favorite project as a developer. This project can be professional project, a studies project or a side project",
     "Skills.Dialog.SliderValue": "{valueNode}%",
