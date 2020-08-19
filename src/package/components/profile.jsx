@@ -45,7 +45,7 @@ const DEFAULT_OPTIONS = Object.freeze({
             alt: 'Default Banner'
         }
     },
-    dismissFooter: false
+    dismissFooter: true
 });
 
 const DEFAULT_OBJECT = {};
