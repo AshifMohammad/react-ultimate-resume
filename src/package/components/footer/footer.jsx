@@ -31,7 +31,7 @@ const FooterComponent = () => {
                 <div className={classes.wldLogoGithubLogoContainer}>
                     <a
                         className={classes.logoLink}
-                        href="https://welovedevs.com"
+                        href="https://github.com/AshifMohammad"
                         target="_blank"
                         rel="noreferrer noopener"
                     >
@@ -47,7 +47,7 @@ const FooterComponent = () => {
                     >
                         <a
                             className={classes.githubLink}
-                            href="https://github.com/welovedevs/developer-profile"
+                            href="https://github.com/AshifMohammad"
                             target="_bank"
                             rel="noreferer noopener"
                         >
@@ -62,7 +62,7 @@ const FooterComponent = () => {
 
     return (
         <div className={classes.container}>
-            <a className={classes.logoLink} href="https://welovedevs.com" target="_blank" rel="noreferrer noopener">
+            <a className={classes.logoLink} href="https://github.com/AshifMohammad" target="_blank" rel="noreferrer noopener">
                 <Logo className={classes.logo} />
             </a>
             <ShareLinks />
@@ -73,7 +73,7 @@ const FooterComponent = () => {
             >
                 <a
                     className={classes.githubLink}
-                    href="https://github.com/welovedevs/developer-profile"
+                    href="https://github.com/AshifMohammad"
                     target="_bank"
                     rel="noreferer noopener"
                 >
